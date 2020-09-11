@@ -16,7 +16,7 @@ _Spring 2020 | BSc. Computer Science, University of Alberta_
 
 Previous or current companies I have or am affiliated with.
 
-<div>
+<div style="display: flex; flex-direction: column; justify-content: center">
   <img style="margin: 2rem" alt="Intuit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Intuit_Logo.svg/1200px-Intuit_Logo.svg.png" />
   <img style="margin: 2rem" alt="University of Alberta" src="https://cloudfront.ualberta.ca/-/media/toolkit/logos/ua/ua-colour-png.png?w=480" />
   <img style="margin: 2rem" alt="Alberta Health Services" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alberta_Health_Services_Logo.svg/1280px-Alberta_Health_Services_Logo.svg.png" />
