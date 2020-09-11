@@ -11,6 +11,8 @@ _Spring 2020 | BSc. Computer Science, University of Alberta_
 🌱 Currently learning more back-end technologies and practices. <br/>
 ⚡ Fun fact: I am learning the piano at RCM Level 3 and play badminton. <br/>
 
+<img alt="Github Stats" alt="dong-alex's Github Stats" src="https://alex-github-readme-stats.vercel.app/api?username=dong-alex&show_icons=true&hide_border=true" />
+
 ---
 
 ## Languages and Frameworks
