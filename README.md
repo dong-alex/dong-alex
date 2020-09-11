@@ -7,9 +7,9 @@ _Spring 2020 | BSc. Computer Science, University of Alberta_
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 
-🔭 Working towards a potential project for various time complexities in Python.
-🌱 Currently learning more back-end technologies and practices.
-⚡ Fun fact: I am learning the piano at RCM Level 3 and play badminton.
+🔭 Working towards a potential project for various time complexities in Python. <br/>
+🌱 Currently learning more back-end technologies and practices. <br/>
+⚡ Fun fact: I am learning the piano at RCM Level 3 and play badminton. <br/>
 
 ---
 
