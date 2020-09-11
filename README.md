@@ -5,23 +5,11 @@
 _Spring 2020 | BSc. Computer Science, University of Alberta_
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 
 🔭 Working towards a potential project for various time complexities in Python.
 🌱 Currently learning more back-end technologies and practices.
 ⚡ Fun fact: I am learning the piano at RCM Level 3 and play badminton.
-
----
-
-## Work Experience
-
-Previous or current companies I have or am affiliated with.
-
-<div style="display: flex; flex-direction: column; justify-content: center">
-  <img style="margin: 2rem" alt="Intuit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Intuit_Logo.svg/1200px-Intuit_Logo.svg.png" />
-  <img style="margin: 2rem" alt="University of Alberta" src="https://cloudfront.ualberta.ca/-/media/toolkit/logos/ua/ua-colour-png.png?w=480" />
-  <img style="margin: 2rem" alt="Alberta Health Services" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alberta_Health_Services_Logo.svg/1280px-Alberta_Health_Services_Logo.svg.png" />
-  <img style="margin: 2rem" alt="City of Edmonton" src="https://www.grindstonetheatre.ca/wp-content/uploads/2018/03/the-city-of-edmonton.png" />
-</div>
 
 ---
 
@@ -82,27 +70,6 @@ Here are the languages and frameworks that I am familiar or experienced with!
 
 [react-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png
 [website]: https://alex-dong.com
+[leetcode]: https://leetcode.com/dongqingli/
 [linkedin]: https://linkedin.com/in/dongalex/
 [devpost]: https://devpost.com/AlexDong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
-
----
-
-#### Leetcode
-
-View my Leetcode profile [here](https://leetcode.com/dongqingli/)!
-I am continuously improving my algorithm skills.
-
-<!--
-**dong-alex/dong-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
