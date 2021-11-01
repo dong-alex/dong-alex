@@ -7,7 +7,7 @@ _Spring 2020 | BSc. Computer Science, University of Alberta_
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 
-⚡ Fun fact: I am learning the piano at RCM Level 3 and play badminton. <br/>
+⚡ Fun fact: I am learning the piano at RCM Level 5 and play badminton and volleyball. <br/>
 
 <img alt="Github Stats" alt="dong-alex's Github Stats" src="https://alex-github-readme-stats.vercel.app/api?username=dong-alex&show_icons=true&hide_border=true" />
 
@@ -67,7 +67,6 @@ Here are the languages and frameworks that I am familiar or experienced with!
 [![Spotify](https://alex-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/6qd5idfg40xamigri9tocmhy4?si=W7sRVvXjQnyk79bahwjlsA)
 
 [react-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png
-[website]: https://alex-dong.com
 [leetcode]: https://leetcode.com/dongqingli/
 [linkedin]: https://linkedin.com/in/dongalex/
 [devpost]: https://devpost.com/AlexDong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
